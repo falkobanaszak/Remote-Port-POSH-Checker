@@ -10,7 +10,6 @@
 
 .NOTES
     Author        Falko Banaszak, https://virtualhome.blog, Twitter: @Falko_Banaszak
-    
     Change Log    V1.00, 21/04/2020 - Initial version: Creates a new vCenter role with privileges required for Veeam Backup & Replication operations
 
 .LICENSE
