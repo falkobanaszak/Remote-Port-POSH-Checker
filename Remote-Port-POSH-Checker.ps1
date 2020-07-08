@@ -29,7 +29,6 @@
     SOFTWARE.
 #>
 
-
 # Variable for the host and the port to test
 $HostToTest = Read-Host "Enter the host you want to check (DNS with FQDN or IP address)"
 $PortToTest = Read-Host "Enter the TCP Port you want to check"
