@@ -1,13 +1,13 @@
 <#
 .SYNOPSIS
-    Remote-Port-POSH-Checker.ps1 - PowerShell Script to create a new vCenter Role with all the required permission for Veeam Backup & Replication. 
+    Remote-Port-POSH-Checker.ps1 - Check Remote Ports easily 
 .DESCRIPTION
     This is a very simple and easy Powershell script to check if a remote port is alive !
 .OUTPUTS
     Results are printed to the console.
 .NOTES
     Author        Falko Banaszak, https://virtualhome.blog, Twitter: @Falko_Banaszak
-    Change Log    V1.00, 21/04/2020 - Initial version: Creates a new vCenter role with privileges required for Veeam Backup & Replication operations
+    Change Log    V1.00, 21/04/2020 - Initial version: Check Remote Ports easily
 
 .LICENSE
     MIT License
